@@ -6,6 +6,8 @@
 
 **DATE CREATED**: January 20th, 2019
 
+View a demo of this app [here](https://youtu.be/TExW1SkSatM).
+
 This app was created with XCode and the Swift programming language.
 
 **FUTURE IMPROVEMENTS**:
