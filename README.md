@@ -1,6 +1,6 @@
 **PROJECT NAME**: TicTacToe
 
-**AUTHORS**: Nina Huang
+**AUTHOR**: Nina Huang
 
 **DESCRIPTION**: 2 player tic-tac-toe game for iOS iPhone SE
 
